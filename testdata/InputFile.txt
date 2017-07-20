@@ -1,0 +1,14 @@
+XPT3.03
+HUS01          20161231ABC India Pvt Lrd, India.
+D/401AL BX      10000.00        1000.0000
+D/402AL BX      10000.00        1000.0000
+D/403AL BX      10000.00        1000.0000
+T5           30000.00
+HUS01          20161031ABC India Pvt Lrd, India.
+D/401AL BX      10000.00        1000.0000
+T3           10000.00
+HUS01          20161231XYZ India Pvt Lrd, India.
+D/401AL BX      10000.00        1000.0000
+D/402AL BX      10000.00        1000.0000
+T4           20000.00
+F14          60000.00

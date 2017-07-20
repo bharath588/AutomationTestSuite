@@ -1,0 +1,2 @@
+[0420/172120.077:ERROR:exception_snapshot_win.cc(87)] thread ID 8104 not found in process
+[0420/172120.077:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
